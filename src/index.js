@@ -1,3 +1,5 @@
+import _ from 'lodash';
+
 function buildHelloWorldDiv() {
 
     const element = document.createElement('div');
