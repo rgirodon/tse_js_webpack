@@ -1,0 +1,16 @@
+{
+  "name": "tse_js_webpack",
+  "version": "1.0.0",
+  "description": "tse_js_webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
